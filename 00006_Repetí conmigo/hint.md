@@ -1,1 +1,0 @@
-¡NO TE OLVIDES DE USAR EL NUEVO BLOQUE! :repeat: **hacer una imagen como con el play el ojito?**. **esto va en la pista o en la consigna?**

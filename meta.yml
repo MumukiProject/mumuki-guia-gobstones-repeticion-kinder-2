@@ -1,5 +1,5 @@
 ---
-name: Repetición
+name: Otra vuelta
 locale: es
 type: learning
 beta: false
@@ -7,15 +7,6 @@ teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order:
-- 1
-- 2
-- 3
-- 4
-- 5
-- 6
-- 7
-- 8
-- 9
 - 10
 - 11
 - 12
