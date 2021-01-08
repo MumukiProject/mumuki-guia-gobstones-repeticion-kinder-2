@@ -4,5 +4,3 @@
 </div>
 
 > UNÍ LOS PROGRAMAS EQUIVALENTES PARA GUIAR AL CEPILLO AL DIENTE. 
-
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder-2/master/assets/match10_prog_si_1610138325940.svg" alt="match10_prog_si_1610138325940.svg" width="auto" height="auto">
