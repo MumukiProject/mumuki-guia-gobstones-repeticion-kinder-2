@@ -3,4 +3,4 @@
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_dientes2_1604602744600.svg" alt="El cepillo va al diente">
 </div>
 
-> UNÍ LOS PROGRAMAS EQUIVALENTES PARA GUIAR AL CEPILLO AL DIENTE. 
+> UNÍ LOS PROGRAMAS EQUIVALENTES PARA GUIAR AL CEPILLO AL DIENTE.
