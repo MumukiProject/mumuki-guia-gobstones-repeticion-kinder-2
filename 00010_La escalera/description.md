@@ -4,5 +4,3 @@
 </div>
 
 > UNÍ LOS PROGRAMAS EQUIVALENTES PARA GUIAR A LA PELOTA AL ARO.
-
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-repeticion-kinder-2/master/assets/match10_tab_modif2-01_1610560082416.svg" alt="match10_tab_modif2-01_1610560082416.svg" width="auto" height="auto">
