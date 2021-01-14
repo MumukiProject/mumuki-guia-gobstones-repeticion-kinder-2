@@ -1,0 +1,2 @@
+expectation "se debe usar dos repeticiones":
+  within `Main` count(uses repeat) = 2;
