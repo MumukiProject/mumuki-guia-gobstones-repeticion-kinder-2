@@ -1,0 +1,2 @@
+expectation "se debe usar por lo menos tres repeticiones":
+  within `Main` count(uses repeat) >= 3;
